@@ -3743,6 +3743,12 @@ table span.badge {
     left: auto;
     right: auto;
   }
+  .row .col.m33 {
+    width: 33%;
+    margin-left: auto;
+    left: auto;
+    right: auto;
+  }
   .row .col.m5 {
     width: 41.6666666667%;
     margin-left: auto;
